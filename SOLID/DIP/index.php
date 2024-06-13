@@ -1,7 +1,7 @@
 /*
 * Curso de Engenharia de Software - UniEVANGÉLICA 
 * Disciplina de Programação Web 
-* Dev: Lucas Oliveira 
+* Dev: Lucas de Oliveira 
 * DATA: 13/06/2024
 */ 
 <?php
